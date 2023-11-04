@@ -15,7 +15,8 @@ This model extracts number of car license plate from image
 
 
 ## Architecture
-Fully-convolutional CNN (CNN) and Bi-LSTM. At the output of CTC-loss.
+Fully-convolutional CNN (CNN) and Bi-LSTM. At the output of CTC-loss. \
+
 ![Архитектура](https://algocode.ru/files/course_dlfall22/architecture.png)
 ### Prerequisites
 
