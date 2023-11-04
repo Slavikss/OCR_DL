@@ -10,7 +10,7 @@ The OCR system is designed to process images and extract Chinese numerical chara
 This model extracts number of car license plate from image 
 
 **Input example:** 
-![Автомобильный номер](https://algocode.ru/files/course_dlfall22/number.png)
+![Автомобильный номер](https://algocode.ru/files/course_dlfall22/number.png) \
 **Output example:** 皖AD16688
 
 ![Архитектура](https://algocode.ru/files/course_dlfall22/architecture.png)
